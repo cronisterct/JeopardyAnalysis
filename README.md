@@ -1,1 +1,2 @@
-# JeopardyAnalysis
+# Jeopardy Analysis
+Welcome to "Jeopardy!" with your hosts Catie Cronister, Dash Brookhart and Veeral Shah! We look forward to taking you though an in-depth analysis of the topics in Jeopardy! In this project we run NMF on the entire dataset to get topics 8 topics of Jeopardy! and we then see how the "distribution" of these topics change over time. We further explore this topic by analyzing the relationship between the topics and the value of the questions within these topics. 
